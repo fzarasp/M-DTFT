@@ -1,9 +1,9 @@
 # M-DTFT
 M point DTFT in MATLAB
-PART A: This program computes the M point DTFT of a given signal in [−π, π] range. I wrote a MATLAB function named "DTFT.m" to do so.
+This program computes the M point DTFT of a given signal in [−π, π] range. I wrote a MATLAB function named "DTFT.m" to do so.
 
 
-PART B: For examining the result I also wrote a function that computes the convolution of two indexed sequences, named "convolution.m"
+For examining the result I also wrote a function that computes the convolution of two indexed sequences, named "convolution.m"
 
 I evaluated my result with 2 types of inputs + audio signal and apply a LTI system on them as below.
 
